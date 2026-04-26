@@ -6,7 +6,3 @@
 # OS junk
 .DS_Store
 Thumbs.db
-
-# Output folder produced by the RenameGANs macro (users generate their own at the path
-# specified in their Config). Excluded so the repo only contains source/sample material.
-renamed_attachments/

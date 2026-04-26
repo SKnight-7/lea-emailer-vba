@@ -80,6 +80,7 @@ lea-emailer-vba/
 │   ├── unsplit/
 │   │   └── FY 2025-26 GAN for LEA-.pdf   # 20-page sample document (one page per LEA)
 │   └── split/                            # 20 single-page PDFs ready for the rename macro
+├── renamed_attachments/                  # 20 PDFs already renamed (output of running RenameGANs)
 └── README.md
 ```
 
@@ -97,7 +98,7 @@ A full walkthrough is in the Instructions tab inside the workbook itself. The sh
 4. On the Data tab, set `ReadyToSend` to `Y` for the rows you want to process.
 5. Run `EmailLEAs` from View → Macros (or Alt+F8).
 
-For the personalized-attachment workflow, the pre-split sample PDFs in `sample_attachments/split/` already match the Config's expected naming pattern, so running `RenameGANs` will rename each one to include the corresponding LEA's name.
+For the personalized-attachment workflow, two folders are provided: `sample_attachments/split/` contains pre-split source PDFs ready for `RenameGANs` to process, and `renamed_attachments/` contains the same 20 PDFs already renamed with each LEA's name. Together, they let a reviewer test either macro independently. Run `RenameGANs` to see the rename workflow on the source files, or skip it and use the pre-renamed files directly with `EmailLEAs`.
 
 **One important detail about the rename macro:** split PDFs are mapped to LEAs *by position*. `FY 2025-26 GAN for LEA-1.pdf` becomes the file for row 1 in SourceData, `LEA-2.pdf` becomes row 2, and so on. The `LEA-N` labels are assigned by Adobe in the order each LEA's pages appear in the original combined PDF, so the row order in SourceData must match the page order in that PDF. For example, `LEA-12` has to be row 12, `LEA-7` has to be row 7, and so on. A mismatch produces silently wrong mappings: the right number of files for the right number of LEAs, but the wrong file going to each one. The Instructions tab calls this out in the SourceData section.
 
