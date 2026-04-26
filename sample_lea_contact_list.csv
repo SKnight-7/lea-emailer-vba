@@ -1,0 +1,21 @@
+CDS_Code,LEA_Name,LEA_Type,County,Status,City,Phone,Superintendent_FirstName,Superintendent_LastName,Superintendent_Title,Superintendent_Email,CTE_Coordinator_Name,CTE_Coordinator_Email,Regional_Consultant_Name,Regional_Consultant_Email,Last_Updated
+3475849,Cedarbrook Unified School District,USD,Sacramento,Active,Cedarbrook,(555) 234-1100,Anjali,Patel,Superintendent,super@cedarbrookusd.example.org,Robert Sanchez,cte@cedarbrookusd.example.org,,,2024-11-12
+1029384,Fairview Joint Union High School District,JUHSD,Yolo,Active,Fairview,555-234-1101,Carlos,Rodriguez,Superintendent of Schools,director@fairviewjuhsd.example.org,,,,,2024-09-30
+5511223,Riverstone County Office of Education,COE,Riverstone,Active,Riverstone,5552341102,Maria,Chen,County Superintendent of Schools,csuper@riverstone.example.org,Karen Liu,cte@riverstone.example.org,Tom Ferreira,regional@riverstone.example.org,2025-01-15
+4892123,Pine Valley Elementary School District,ESD,Placer,Active,Pine Valley,(555) 234-1103,Sarah,Johnson,Superintendent,super@pinevalleyesd.example.org,,,,,2024-08-22
+6781045,Cascadia Regional Occupational Program,ROP,Shasta,Active,Cascadia,555-234-1104,Linh,Nguyen,Director,director@cascadiarop.example.org,Mike Thompson,coord@cascadiarop.example.org,,,2024-12-05
+9871234,Highland Crest Charter School,Charter,Marin,Active,Mill Crest,(555) 234-1105,David,Williams,Charter School Lead,principal@highlandcrest.example.org,,,,,12/03/2024
+3344556,Saddle Ridge Unified School District,USD,Tehama,Active,Saddle Ridge,555.234.1106,Patrick,O'Brien,Superintendent,super@saddleridgeusd.example.org,Lisa Park,cte@saddleridgeusd.example.org,,,2025-02-10
+7788990,Mountain View Joint Powers Authority,JPA,Various,Active,Mountain View,(555) 234-1107,Sofia,Garcia,Executive Director,director@mvjpa.example.org,,,Jose Aguilar,regional@mvjpa.example.org,2024-10-18
+2233445,Crescent Bay Unified School District,USD,Monterey,Active,Crescent Bay,5552341108,Daniel,Kim,Superintendent of Schools,super@crescentbayusd.example.org,Emily Watson,cte@crescentbayusd.example.org,Tom Ferreira,regional@crescentbayusd.example.org,2024-11-30
+6677889,Old Mill Unified School District,USD,Sonoma,Active,Old Mill,(555) 234-1109,Rachel,Thompson,Superintendent,super@oldmillusd.example.org,,,,,2024-12-19
+1122334,Sequoia Heights School District,SD,Tulare,Active,Sequoia Heights,555-234-1110,Elena,Martinez,Superintendent,super@sequoiaheights.example.org,Jamal Fields,cte@sequoiaheights.example.org,,,2025-01-22
+9988776,Sunset Plains Joint Union High,JUHSD,Inyo,Active,Sunset Plains,(555) 234-1111,Marcus,Brown,Principal,principal@sunsetplains.example.org,,,,,2024-09-05
+4455667,Bayshore County Office of Education,COE,Bayshore,Active,Bayshore,555-234-1112,Jennifer,Anderson,County Superintendent,csuper@bayshorecoe.example.org,Wei Chen,cte@bayshorecoe.example.org,,,2025-02-28
+8855442,Goldfield Unified School District,USD,Mariposa,Active,Goldfield,5552341113,Soo-jin,Lee,Acting Superintendent,super@goldfieldusd.example.org,,,,,2024-08-14
+3322114,Westbrook Elementary School District,ESD,Lake,Active,Westbrook,(555) 234-1114,Michael,Davis,Superintendent,super@westbrookesd.example.org,,,,,11/27/2024
+7766554,Tidewater Charter Schools,Charter,Mendocino,Active,Tidewater,555-234-1115,Raj,Patel,CEO,ceo@tidewatercharter.example.org,Sandra Yang,cte@tidewatercharter.example.org,,,2024-12-30
+2299887,Northpoint Joint Powers Authority,JPA,Various,Active,Northpoint,(555) 234-1116,Priya,Singh,Director,director@northpointjpa.example.org,,,,,2024-10-09
+5544332,Valley Glen Unified School District,USD,Madera,Active,Valley Glen,5552341117,Brian,Johnson,Superintendent of Schools,super@valleyglenusd.example.org,Antonio Reyes,cte@valleyglenusd.example.org,,,2025-01-08
+6655443,Kestrel Hills Regional Occupational Center,ROC,Butte,Active,Kestrel Hills,555-234-1118,Alejandra,Reyes,Director,director@kestrelhillsroc.example.org,,,,,2024-11-21
+1199002,Mossbridge Union School District,USD,Glenn,Active,Mossbridge,(555) 234-1119,Thomas,White,Superintendent,super@mossbridgeusd.example.org,Bo Tran,cte@mossbridgeusd.example.org,,,2024-12-12
